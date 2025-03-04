@@ -35,4 +35,10 @@ The dataset used in this project is sourced from **NASA Battery Dataset** availa
 📂 thinkclock-battery-analysis  
  ├── 📂 think_code                         # Contains Python scripts & logic  
  │    ├── new_assignment_think_clock.ipynb  # Jupyter Notebook with analysis  
- ├── 📄 README.md                          # Project Documentation  
+ ├── 📄 README.md                          # Project Documentation
+
+
+## 🌟 About Me
+
+Hi there! I'm **Vineeth Raja Banala**, a passionate machine learning enthusiast with a Master's in Data Science from Heriot-Watt University. I specialize in developing and deploying machine learning models that turn data into actionable insights. My goal is to bridge the gap between complex data challenges and impactful solutions to drive business growth and innovation.
+
