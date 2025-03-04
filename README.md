@@ -37,6 +37,7 @@ The dataset used in this project is sourced from **NASA Battery Dataset** availa
  │    ├── new_assignment_think_clock.ipynb  # Jupyter Notebook with analysis  
  ├── 📄 README.md                          # Project Documentation
 
+```bash
 
 ## 🌟 About Me
 
